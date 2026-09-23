@@ -8,6 +8,7 @@ actual_sum = 0
 for num in numbers:
     
     actual_sum += num
+    
 missing = expected_sum - actual_sum
 
 print("Missing number:", missing)
