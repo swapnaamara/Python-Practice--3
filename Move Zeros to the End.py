@@ -12,6 +12,7 @@ for num in numbers:
         result.append(num)
 
 for i in range(zero_count):
+    
     result.append(0)
 
 print(result)
