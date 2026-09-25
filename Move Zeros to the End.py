@@ -1,4 +1,5 @@
 numbers = [0, 1, 0, 3, 12]
+
 result = []
 zero_count = 0
 
