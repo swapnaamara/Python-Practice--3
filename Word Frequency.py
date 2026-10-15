@@ -1,5 +1,6 @@
 sentence = "python is easy and python is powerful"
 words = sentence.split()
+
 frequency = {}
 
 for word in words:
