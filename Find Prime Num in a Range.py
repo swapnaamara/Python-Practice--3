@@ -11,6 +11,7 @@ for num in range(start, end + 1):
         
         if num % i == 0:
             is_prime = False
+            
             break
 
     if is_prime:
